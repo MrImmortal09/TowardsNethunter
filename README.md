@@ -31,3 +31,20 @@ There’s something liberating about knowing that your ability to assess securit
 Choosing Kali NetHunter over regular Kali isn’t just about opting for mobility; it’s about embracing a new era of penetration testing. It’s about understanding that in today’s fast-paced world, the ability to adapt and respond on the fly is more critical than ever. With NetHunter, you’re not just carrying a toolkit—you’re carrying the future of cybersecurity in your pocket.
 
 So, why stick to the old ways when you can redefine your approach? Kali NetHunter is more than just an alternative; it’s an evolution. It’s time to unleash the power of mobile pentesting and see where it takes you
+
+## Toolset and Capabilities:
+
+NetHunter comes pre-installed with a comprehensive suite of tools found in Kali Linux, tailored for mobile use. This includes tools for network scanning, Wi-Fi cracking, web application testing, and more.
+Unique mobile-specific tools are also available, such as HID (Human Interface Device) keyboard attacks, BadUSB attacks, and Wi-Fi frame injection, which are particularly useful for conducting physical penetration tests.
+
+## Integration into Android:
+
+Kali NetHunter is a custom Android ROM overlay that can be installed on a range of Android devices. It integrates with the Android OS, enabling users to leverage the full power of their mobile device for penetration testing tasks.
+While some features require root access, NetHunter can also be installed on unrooted devices, offering a flexible setup depending on the user's needs.
+
+## Getting started with kali nethunter
+
+Finally its time to begin the Journey. Here are the [Documentation](https://www.kali.org/docs/nethunter/).
+
+It is recommended to install the offical version if available, but if your device is not supported then you wil need to make a linux kernel for the same, which we will be covering soon.
+
