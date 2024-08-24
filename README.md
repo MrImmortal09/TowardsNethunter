@@ -1,6 +1,6 @@
 # TowardsNethunter
 
-![Alt text](https://www.kali.org/docs/nethunter/NetHunter-Kex.png)
+![Nethunter App](https://www.kali.org/docs/nethunter/NetHunter-App.png)
 
 
 ## What is Kali Nethunter? 🤔
