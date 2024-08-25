@@ -33,7 +33,7 @@ While some features require root access, NetHunter can also be installed on unro
 Finally its time to begin the Journey. Here are the [Documentation](https://www.kali.org/docs/nethunter/) for the official Devices.
 
 # But what about unsupported devices?
-I am here to tell you about how to build a nethunter from scratch. What we neeed is a custom made kernel so that we can have a full access to the hardware of the device. 
+I am here to tell you about how to build a nethunter from scratch. What we need is a custom made kernel so that we can have a full access to the hardware of the device. 
 
 
 ## Building a kernel
