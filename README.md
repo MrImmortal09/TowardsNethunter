@@ -51,5 +51,5 @@ If you face any issue then you might have to use some patches which are availabl
 
 Voila Done.
 
-Shitty note: I know you might get many many errors if you are newbie, 
+Shitty note: I know you might get many many errors if you are newbie, but their is a huch community support available on telegram about building kernels so please join there.
 
