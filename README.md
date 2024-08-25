@@ -4,10 +4,12 @@
 
 ## What is Kali Nethunter? 🤔
 Kali NetHunter is an open-source mobile penetration testing platform developed by Offensive Security. It is essentially a mobile version of Kali Linux, a popular Linux distribution used by cybersecurity professionals for penetration testing, ethical hacking, and digital forensics.
+
 ![My Image](./assets/a.jpeg)
 
 ## Why Nethunter though?
 Imagine carrying the full power of a world-class penetration testing environment not in a bulky laptop bag, but right in your pocket. That’s the Kali NetHunter—a portable, flexible, and dynamic version of Kali Linux tailored for the mobile world. But why should you choose NetHunter over the traditional Kali setup? Let’s dive into the reasons, and you might just find yourself inspired to go mobile.
+
 ![Nethunter App](https://www.kali.org/docs/nethunter/NetHunter-App.png)
 
 
