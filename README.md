@@ -40,7 +40,8 @@ I am here to tell you about how to build a nethunter from scratch. What we neeed
 
 1. Find the kernel source, this is something which needs to be released by the manufacturer, ex for samsung devices you can find it at https://developer.samsung.com/ . If you are using a custom rom which is recommended then you will mostly likely find a github link to the kernel source on its xda page, or else just ask the dev who build the ROM.
 2. With the kernel source there will be instructions given about how to build the kernel, go to the MAKE menu and the config in [this file](./assets/config)
-![Nethunter kernel](https://www.kali.org/docs/nethunter/NetHunter-App.png](https://www.kali.org/docs/nethunter/nethunter-kernel-2-config-1/nh-kernel-120-modules.png)
+
+![Nethunter kernel](https://www.kali.org/docs/nethunter/nethunter-kernel-2-config-1/nh-kernel-120-modules.png)
 
 If you face any issue then you might have to use some patches which are available [here](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel).
 3. Using [Anykernel](https://github.com/osm0sis/AnyKernel3) by Osmosis to flash the compiled image, you can also directly flash the image but here you will always need a pc in hand.
